@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+form{
+    box-shadow: 5px 10px 200px #030bf4;
+}
+/* .background-image{
+    background-image: url(back5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+} */
+body{
+    background-image: url(back5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    padding: 6px;
+    color: white;
+}
